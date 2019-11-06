@@ -1,6 +1,7 @@
 # For Dockerfiles
 
-[![Build Status](https://travis-ci.org/phee13/Dockerfiles.svg?branch=master)](https://travis-ci.org/phee13/Dockerfiles)
+[![Docker Build](https://img.shields.io/docker/automated/phee13/git-autobuilt?style=plastic)](https://dockerhub.com/u/pheae14)
+
 
 
 ## About
