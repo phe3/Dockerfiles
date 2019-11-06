@@ -1,7 +1,7 @@
 # For Dockerfiles
 
-[![Docker Build](https://img.shields.io/docker/automated/phee13/git-autobuilt?style=plastic)](https://dockerhub.com/u/pheae14)
-
+[![Docker Build](https://img.shields.io/docker/automated/phee13/git-autobuilt?style=plastic)](https://dockerhub.com/u/phee13)
+[![Docker Pulls](https://img.shields.io/docker/pulls/phee13/git-autobuilt)](https://dockerhub.com/u/phee13/git-autobuilt)
 
 
 ## About
