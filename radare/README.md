@@ -1,7 +1,7 @@
 # Radare + Yara
 
 [![Build Status](https://travis-ci.org/phee13/Dockerfiles.svg?branch=master)](https://travis-ci.org/phee13/Dockerfiles)
-
+[![Docker Pulls](https://img.shields.io/docker/pulls/phee13/git-autobuilt)](https://dockerhub.com/u/phee13/git-autobuilt)
 
 ## About
 
